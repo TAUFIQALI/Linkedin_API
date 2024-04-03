@@ -25,7 +25,7 @@ function App() {
 
   const handleLinkedIn = async ()  => {
     const HEADERS = {
-      Authorization: `Bearer ${"AQXjLiscaN09Dn3f7UssgWIwBcyPRYTko-W0xFliclt7FaJAdczlj9YhI5ipHHSURLyFoSAA4DskpBwTuLHfty_9wBwN428XN39bhHusxZoQfA_XuLvhHXUIa5Qf9rsVkJwY6jJLk18OtKwrbAfSPUCwb2oJXqWfvpSlSZp3aJNiR4LGZwUpLM4K2r9EPaOOLrvaRqArM1CWZO76eQIOvjRsC3fJO06nSYvPSmAdUdBppOAzefisDM3ethM8-Pc1IJm_-GHfgxeKpdZJCV6M9NgI_Y441lu8ufKfm3LGlkKAPtlPTz8FwzY4JwQYKWTcsdt32cVvGdC_FGDllXQ6c-1q8Dzepw"}`,
+      Authorization: `Bearer ${"AQViAn_K9wGSsQrGxU-LpXQ4AX7cnPJK5YSktlkCycpt6ZeUmwCQT1ztKXWrkA1LMrAf9hhjEOvH3clReuUO-2BNgA9NWfK6o78J0tew806LZGuePklcYqDP9257FgzK_5UKhGAU682d_nzRE3ozEDApNiaZ2yp79JMRNgUOfIZ9-YcknJHP50-DuxTwxdEC0BY-dthU5c9A_s0rjOUyEXsqOe4I7QBD7tusPZria9U1DIrAPfua0H88XJIX9urDoGru8PG8UAlJzOq-ny-rXe73CN12qsXBxIYSMJRKm3NkqYwZuGoTe887S_Gjus8W1L4lpnLyvZgEU9JoMxvgjsTwsuAKzA"}`,
       "X-RestLi-Protocol-Version": "2.0.0",
       "Connection": "Keep-Alive",
       "Access-Control-Allow-Origin": "*",
