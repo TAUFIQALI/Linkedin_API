@@ -29,6 +29,7 @@ function App() {
       "X-RestLi-Protocol-Version": "2.0.0",
       "Connection": "Keep-Alive",
       "Access-Control-Allow-Origin": "*",
+      'Access-Control-Request-Method': 'GET',
       'Host': "api.linkedin.com",
     };
     try {
